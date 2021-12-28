@@ -1,11 +1,7 @@
 
 ### Hi! I'm Linus Hvenfelt! 👋
 
-<!--
-**veglinus/veglinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
-
-- 🔭 I’m currently studying Web Development at Mittuniversitetet.
+- 🔭 I’m currently on my last year of studying for a bachelor's degree in computer science att Linnaeus University. Previously I studied web development at Mittuniversitetet
 - 📫 See more of my work: (linush.com)
-- ⚡ I'm also a guitarist!
+- 🌱 I run and operate the swedish vegan help website and app Vegohjälpen
+- 🎵 I'm a guitarist, and I also run the lights for live shows
