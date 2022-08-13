@@ -7,4 +7,4 @@ Previously I studied web development at Mittuniversitetet
 - 🌱 I run and operate the swedish vegan help website and app Vegohjälpen
 
 I'm currently looking for new opportunities in the software development field.  
-Contact med on LinkedIn: https://www.linkedin.com/in/linush/
+Contact me on LinkedIn: https://www.linkedin.com/in/linush/
